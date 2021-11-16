@@ -1,0 +1,7 @@
+.header {
+    border-radius: 10px;
+}
+
+#records {
+    overflow-y: auto;
+}
