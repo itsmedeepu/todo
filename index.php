@@ -107,7 +107,7 @@
                             <input type="hidden" class="form-control" name="id" id="eid" required>
                             <label class="fw-bold">Task Title*</label>
                             <input type="text" class="form-control mt-2" name="etaskname" id="etname" required
-                                placeholder="Enter task name">
+                                placeholder="Enter task title">
                         </div>
                         <div class="form-group">
                             <label class="fw-bold">Task Description*</label>
@@ -116,7 +116,7 @@
                         <div class="form-group">
                             <label class="fw-bold">Task Date*</label>
                             <input type="date" class="form-control mt-2" name="etaskdate" id="etdate" required
-                                placeholder="Enter task Date">
+                                placeholder="Enter task time">
                         </div>
                         <div class="form-group mt-2">
                             <button id="upd" type="submit" class="btn btn-success">Update task</button>
